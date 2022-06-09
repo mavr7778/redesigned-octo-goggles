@@ -1,7 +1,7 @@
 {
   "name": "redesigned-octo-goggles",
   "description": "redesigned-octo-goggles",
-
+}
   "env": {
      "ENCRYPT": {
       "description": "redesigned-octo-goggles",
