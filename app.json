@@ -15,8 +15,6 @@
       "description": "path",
       "generator": "secret"
 }
-}
-
     "QR_Path": {
        "description": "QR",
        "value": "/qr"
