@@ -19,5 +19,6 @@
        "description": "QR",
        "value": "/qr"
 }
+},
   "stack": "container"
 }
