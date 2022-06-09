@@ -1,11 +1,11 @@
 {
   "name": "redesigned-octo-goggles",
   "description": "redesigned-octo-goggles",
-}
   "env": {
      "ENCRYPT": {
       "description": "redesigned-octo-goggles",
       "value": "chacha20-ietf-poly1305"
+}
 }
      "PASSWORD": {
       "description": "password",
