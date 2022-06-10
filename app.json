@@ -7,20 +7,17 @@
       "value": "chacha20-ietf-poly1305"
     },
      "PASSWORD": {
-      "description": "password",
-      "value": "7d9ca3d1-1580-4ff1-9521-f90ef1f2ae77"
+      "description": "PASSWORD",
+      "value": "password"
     },
-
      "V2_Path": {
       "description": "path",
       "generator": "secret"
     },
-
      "AppName": {
       "description": "App Name filled in at the top (or even full domain if there is a custom one) to generate the configuration and QR code. If you don’t want to generate it, enter no",
       "value": "no"
     },
-
     "QR_Path": {
        "description": "QR",
        "value": "/qr"
