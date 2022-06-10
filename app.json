@@ -1,0 +1,25 @@
+{
+  "name": "redesigned-octo-goggles",
+  "description": "redesigned-octo-goggles",
+    "env": {
+     "ENCRYPT": {
+      "description": "method.",
+      "value": "chacha20-ietf-poly1305"
+    },
+     "PASSWORD": {
+      "description": "PASSWORD",
+      "value": "password"
+    },
+
+     "V2_Path": {
+      "description": "path",
+      "generator": "secret"
+    },
+    
+    "QR_Path": {
+       "description": "QR",
+       "value": "/qr"
+     }
+  },
+  "stack": "container"
+ }
